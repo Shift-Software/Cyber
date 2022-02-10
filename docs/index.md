@@ -58,6 +58,7 @@ Below are some famous sales and Customer Relationship Management (CRM) software:
 1. [Nutshell](https://www.nutshell.com)
 2. [HubSpot](https://www.hubspot.com/)
 3. [Freshsales](https://www.freshworks.com/crm/lp/crm-customer-management/1/)
+
 Out of the three, Freshsales is by far the best, it has so many options and in-detail management. Some options may be redundant for certain customers. 
 
 # Industry standard techniques in managing inventory and sales
