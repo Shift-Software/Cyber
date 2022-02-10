@@ -78,7 +78,7 @@ There are different inventory management techniques
 - Store inventory in strategic locations to reduce shipping costs
 - Discover trends to drive growth
 
-How does Amazon manage its inventories? 
+How does Amazon manage its inventories? Read [here](https://github.com/Shift-Software/Cyber/blob/main/docs/Amazon.md)
 
 # References
 
