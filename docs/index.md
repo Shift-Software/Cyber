@@ -17,6 +17,25 @@ The dummy data can be found in this datasheet:
 https://docs.google.com/spreadsheets/d/19qsZwyP7YEDvDa26qabVrGRtQsX9xmYQYPGgXQkqINs/edit#gid=0
 
 
+# Inventory formulas 
+1. Economic order quantity (EOQ) is the optimum number of products you should purchase to minimize the total cost of ordering or holding stock. 
+![alt text](http://url/to/img.png)
+
+2. Days inventory outstanding (DIO) formula refers to the number of days it takes for inventory to turn into sales.   
+![alt text](http://url/to/img.png)
+
+
+3. Reorder point formula answers the question: When is the right time to order more stock
+
+![alt text](http://url/to/img.png)
+
+4. Safety stock formula: We need to have enough safety stock to meet demand.
+
+![alt text](http://url/to/img.png)
+
+
+
+
 
 # Software products
 
