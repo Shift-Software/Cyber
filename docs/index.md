@@ -19,19 +19,21 @@ https://docs.google.com/spreadsheets/d/19qsZwyP7YEDvDa26qabVrGRtQsX9xmYQYPGgXQkq
 
 # Inventory formulas 
 1. Economic order quantity (EOQ) is the optimum number of products you should purchase to minimize the total cost of ordering or holding stock. 
-![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/Shift-Software/Cyber/blob/main/1.png)
 
 2. Days inventory outstanding (DIO) formula refers to the number of days it takes for inventory to turn into sales.   
-![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/Shift-Software/Cyber/blob/main/2.png)
 
 
 3. Reorder point formula answers the question: When is the right time to order more stock
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Shift-Software/Cyber/blob/main/3.png)
 
 4. Safety stock formula: We need to have enough safety stock to meet demand.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Shift-Software/Cyber/blob/main/4.png)
 
 
 
@@ -49,6 +51,8 @@ It is possible to perform the same tests on each platform to compare their funct
 
 2. Inventory trading trial: https://drive.google.com/file/d/1Xjb4BqQZfL0EFVxEp18o6KX7B-ILFUHl/view?usp=sharing
 
+3. AlmytaABC Inventory: http://www.almyta.com/abc_inventory_software.asp
+
 Below are some famous sales and Customer Relationship Management (CRM) software:
 
 1. [Nutshell](https://www.nutshell.com)
@@ -56,6 +60,24 @@ Below are some famous sales and Customer Relationship Management (CRM) software:
 3. [Freshsales](https://www.freshworks.com/crm/lp/crm-customer-management/1/)
 Out of the three, Freshsales is by far the best, it has so many options and in-detail management. Some options may be redundant for certain customers. 
 
+# Industry standard techniques in managing inventory and sales
+There are different inventory management techniques
+- FIFO (first in first out) and LIFO (last in first out)
+- ABC category
+- Minimum order quantity, Economic order quantity.
+- JIT (Just in Time Inventory) management.
+- JIC (Just in Case Inventory) model.
+
+### Points to consider
+- Maintaining relationship with suppliers especially when orders arise
+- Assessing the suppliers, how often do they miss the deadline? 
+- Regularly auditing the inventory
+- Tracking customer sales to see trends in customer behavior
+- Predicting future demand/supply
+- Store inventory in strategic locations to reduce shipping costs
+- Discover trends to drive growth
+
+How does Amazon manage its inventories? 
 
 # References
 
